@@ -2,7 +2,7 @@
     "TestData": [
         {
             "testId": "PR011",
-            "testindex": "000",
+            "testindex": "000 git config",
             "email": "john2k19wick@gmail.com",
             "password": "vaibhavS@95"
         },
